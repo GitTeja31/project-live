@@ -4,7 +4,7 @@
   <groupId>ToolsQA</groupId>
   <artifactId>Project</artifactId>
   <packaging>war</packaging>
-  <version>1.0-SNAPSHOT</version>
+  <version>master-13.1.0.1</version>
   <name>Project Maven Webapp</name>
   <url>http://maven.apache.org</url>
   <dependencies>
